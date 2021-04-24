@@ -12,6 +12,10 @@ public class User extends UserProfile {
     String str_address4;
     String str_address5;
 
+    public String getName()
+    {
+        return str_firstName + " " + str_middleName + " " + str_lastName;
+    }
     public String getStr_firstName() {
         return str_firstName;
     }
