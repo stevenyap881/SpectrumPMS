@@ -14,7 +14,7 @@ public class User extends UserProfile {
 
     public String getName()
     {
-        return str_firstName + " " + str_middleName + " " + str_lastName;
+        return "Hello" + str_firstName + " " + str_middleName + " " + str_lastName;
     }
     public String getStr_firstName() {
         return str_firstName;

@@ -12,5 +12,7 @@ public abstract class UserProfile {
     String str_address4;
     String str_address5;
 
+    int age;
+
 
 }
