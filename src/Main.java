@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Testing from Spectrum PMS2!");
         System.out.println("Testing from Spectrum PMS3!");
         System.out.println("Testing from Spectrum PMS4!");
+        System.out.println("Testing from Spectrum PMS5!");
     }
 }
