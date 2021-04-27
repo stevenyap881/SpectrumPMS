@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Testing from Spectrum PMS5!");
         System.out.println("Testing from Spectrum PMS6.0!");
         System.out.println("Testing from Spectrum PMS7.0!");
+        System.out.println("Testing from Spectrum PMS8.0!");
     }
 }
